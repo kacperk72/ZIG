@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UN3MQj/+lR1/eGnFvZ5dbGCjsLQvn3uavV94jrpElRLay7Obhgi2xF3GgO+FaUBxxjTvQlXar9HdwwhJDEL2Xg==",
+  "success": true,
+  "projectFilePath": "D:\\studia\\II sem\\ZIG\\wyklad\\ZIGapp\\ZIGapp\\ZIGapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kacpe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
